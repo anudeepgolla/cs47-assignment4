@@ -1,8 +1,8 @@
 import { Platform } from "react-native";
 
 // ***** TODO: Fill in your constants here ***** //
-const CLIENT_ID = "ce792b478e6143d396d126a60eb46a76";
-const REDIRECT_URI = "exp://10.34.54.182:19000"; // TODO: Replace this with your own redirect URI
+const CLIENT_ID = "ed26b3a136b7495db1de2031b8637b9c";
+const REDIRECT_URI = "exp://10.31.234.219:19000"; // TODO: Replace this with your own redirect URI
 const ALBUM_ID = "2nLOHgzXzwFEpl62zAgCEC?si=92gvi84ZTLKfMD-YgYWAUw"; // By default, this is the Weeknd's Album's "DAWN FM"
 // ********************************************* //
 
